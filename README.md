@@ -1,6 +1,3 @@
-Perfect — here’s a **cleaned-up version formatted for a GitHub README.md** (with headings, code blocks, and image placeholders). You can just copy-paste it into your repo’s `README.md`:
-
-````markdown
 # 📚 Semantic Book Recommender with LLMs  
 
 This repository contains all the code for the [freeCodeCamp course](https://www.freecodecamp.org/),  
