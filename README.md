@@ -58,14 +58,6 @@ Here’s what the app looks like in action:
 
 ---
 
-## 🌍 Live Demo
-
-You can also deploy this project online:
-
-* [Hugging Face Spaces](https://huggingface.co/spaces) (best for Gradio apps ✅)
-
----
-
 ## 📖 License
 
 MIT License – free to use, modify, and share.
