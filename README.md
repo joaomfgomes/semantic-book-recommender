@@ -49,7 +49,7 @@ The project walks you through building a semantic recommendation system step by 
    ```bash
    git clone https://github.com/your-username/semantic-book-recommender.git
    cd semantic-book-recommender
-```
+``
 
 2. Install dependencies:
 
@@ -93,8 +93,6 @@ Here’s what the app looks like in action:
 You can also deploy this project online:
 
 * [Hugging Face Spaces](https://huggingface.co/spaces) (best for Gradio apps ✅)
-* [Streamlit Cloud](https://streamlit.io/cloud)
-* [Render](https://render.com) / [Railway](https://railway.app)
 
 ---
 
