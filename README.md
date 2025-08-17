@@ -43,36 +43,6 @@ The project walks you through building a semantic recommendation system step by 
 
 ---
 
-## 🔑 Setup  
-
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/your-username/semantic-book-recommender.git
-   cd semantic-book-recommender
-``
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Create a `.env` file in the root directory and add your **OpenAI API key**:
-
-   ```
-   OPENAI_API_KEY=your_api_key_here
-   ```
-
-4. Download the dataset from Kaggle (instructions in the repo).
-
-5. Run the Gradio app:
-
-   ```bash
-   python gradio-dashboard.py
-   ```
-
----
-
 ## 📸 Screenshots
 
 Here’s what the app looks like in action:
