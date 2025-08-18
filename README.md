@@ -47,14 +47,12 @@ The project walks you through building a semantic recommendation system step by 
 
 Here’s what the app looks like in action:
 
-![Data exploration](images/data-exploration.png)
-*Exploring the dataset.*
+<img width="1902" height="1011" alt="img_3" src="https://github.com/user-attachments/assets/69340272-b081-46ee-8061-96ad82a63605" />
 
-![Vector search](images/vector-search.png)
-*Finding similar books with semantic search.*
 
-![Gradio dashboard](images/gradio-dashboard.png)
-*Interactive recommender system built with Gradio.*
+<img width="1898" height="1006" alt="img_2" src="https://github.com/user-attachments/assets/fd32c5de-cdc9-4452-b720-5ff30f96122a" />
+
+
 
 ---
 
