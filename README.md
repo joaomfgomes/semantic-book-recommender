@@ -43,6 +43,23 @@ The project walks you through building a semantic recommendation system step by 
 
 ---
 
+🔑 Setup
+
+Create a .env file in the project root with your OpenAI API key.
+
+Download the dataset from Kaggle (instructions included in the repo).
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Run the notebooks or launch the Gradio app:
+
+python gradio-dashboard.py
+
+---
+
 ## 📸 Screenshots
 
 Here’s what the app looks like in action:
